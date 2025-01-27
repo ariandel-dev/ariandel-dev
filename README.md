@@ -8,3 +8,4 @@ Duplication is far cheaper than the wrong abstraction.
 - [https://kentcdodds.com/blog](https://kentcdodds.com/blog)
 - [https://sandimetz.com/blog/](https://sandimetz.com/blog)
 - [https://www.joshwcomeau.com/](https://www.joshwcomeau.com/)
+- [https://toss.tech/tech](https://toss.tech/tech)
